@@ -6,11 +6,11 @@
 
 ![image](https://github.com/yuimamur/IIS-Webshell/assets/59761194/7e5b9b4f-ada4-4776-aed6-15878d9a347b)
 
-「役割と機能の追加(Add Roles and Features)」を選択します。
+「役割と機能の追加(Add Roles and Features)」を選択する。
 
 ![image](https://github.com/yuimamur/IIS-Webshell/assets/59761194/a1f9f786-9055-4af1-bf28-61c7bdb51919)
 
-サーバーの役割(Server Roles) の選択画面で「Webサーバー（IIS）」を選択するようにします。
+サーバーの役割(Server Roles) の選択画面で「Webサーバー（IIS）」を選択するようにする。
 
 <img width="775" alt="image" src="https://github.com/yuimamur/IIS-Webshell/assets/59761194/438b6cff-3b77-45d0-9240-6959342389fb">
 
@@ -23,7 +23,7 @@
 <img width="535" alt="image" src="https://github.com/yuimamur/IIS-Webshell/assets/59761194/0304e121-88e9-4cb9-8c41-ce6056b0ceeb">
 
 Browse Website から Browse *.80 (http) をクリックする。
-もしくは、ブラウザを立ち上げて「http://localhost/iisstart.htm」にアクセスします。
+もしくは、ブラウザを立ち上げて　http://localhost/iisstart.htm　にアクセスする。
 
 Explorer を立ち上げて、C:\inetpub\wwwroot へアクセスする。
 
